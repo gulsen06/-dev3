@@ -1,0 +1,12 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+}
+.box {
+  width: 3rem;
+}
+.box ul {
+  display: none;
+}
+.box:hover ul {
+  display: block;
+}
